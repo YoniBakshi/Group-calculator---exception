@@ -1,9 +1,5 @@
 				~~~ Group Calculator ~~~
 ==============================================================================
-  Full-Names : Yehonatan Bakshi & Hila Saadon
-  Written by = Yehonatan Bakshi    ,  id = 308077668    ,   login = yehonatanba
-  Written by = Hila Saadon  	        ,  id = 208405217    ,   login = hilasaa
-==============================================================================
 Description : 
 This program is a Group Calculator. 
 Overall, there are 5 operations available : Union, Intersection, Difference, Product, Composite
@@ -64,19 +60,6 @@ Union.cpp
 
 ==============================================================================
 
-Data Structure :
-
-==============================================================================
-
-Algorithms :
-
-==============================================================================
-
-Known Bugs :
-None bugs are known.
-
-==============================================================================
-
 Extra Notes :
 * Operation "read" is fulfilled - reading another text file from a text file. *
 
@@ -86,3 +69,5 @@ If command is too short - program will throw an exception.
 The thrown exception will be according to the first found error.
 
 ==============================================================================
+
+  Full-Names : Yehonatan Bakshi & Hila Saadon
